@@ -1,0 +1,4 @@
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Componente\bin\Debug\Componente.dll
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Componente\bin\Debug\Componente.pdb
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Componente\obj\Debug\Componente.dll
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Componente\obj\Debug\Componente.pdb

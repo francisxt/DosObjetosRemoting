@@ -1,0 +1,8 @@
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\bin\Debug\Servidor.exe.config
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\bin\Debug\Servidor.exe
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\bin\Debug\Servidor.pdb
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\bin\Debug\Componente.dll
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\bin\Debug\Componente.pdb
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\obj\Debug\Servidor.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\obj\Debug\Servidor.exe
+c:\users\user\documents\visual studio 2013\Projects\DosObjetosRemoting\Servidor\obj\Debug\Servidor.pdb
